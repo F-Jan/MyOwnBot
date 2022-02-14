@@ -1,0 +1,1 @@
+A Discord-Bot with many functions (At the moment only /user_info).
